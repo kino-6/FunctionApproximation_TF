@@ -2,7 +2,7 @@
 Function approximation by tensorflow
 
 # Enviroment
-Windows 10
+Windows 10  
 conda 4.10.1  
 tensorflow-gpu 2.3.0  
 keras 2.4.3  
