@@ -2,9 +2,9 @@
 Function approximation by tensorflow
 
 # Enviroment
-conda 4.10.1
-tensorflow-gpu 2.3.0
-keras 2.4.3
+conda 4.10.1  
+tensorflow-gpu 2.3.0  
+keras 2.4.3  
 
 # How to Use
 1. run script  
